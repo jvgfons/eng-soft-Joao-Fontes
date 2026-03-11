@@ -1,6 +1,6 @@
 # Portfólio de Engenharia de Software
 
-**Dev:** [Seu Nome Completo]  
+**Dev:** João Vitor Gomes da Hora Fontes
 **Disciplina:** Engenharia de Software - Sistemas para Internet  
 
 Bem-vindo ao meu repositório! Aqui você encontrará todas as minhas entregas, exercícios e documentações desenvolvidas durante a disciplina.
@@ -8,7 +8,7 @@ Bem-vindo ao meu repositório! Aqui você encontrará todas as minhas entregas, 
 ---
 
 ## 🛠️ Minha Stack / Tecnologias
-*(Liste aqui as linguagens, ferramentas ou frameworks que você já conhece ou está aprendendo)*
+
 - HTML5, CSS3, JavaScript, Springboot
 - C, Java
 
