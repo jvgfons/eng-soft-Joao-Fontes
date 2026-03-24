@@ -19,7 +19,9 @@ Bem-vindo ao meu repositório! Aqui você encontrará todas as minhas entregas, 
 
 Clique nos links abaixo para acessar os arquivos de cada semana:
 
-* 📄 [Semana 01 - Fundamentos e Ética](./semana-01)
+* 📄 [Semana 01 - Fundamentos e Ética - Entrega do repositório GitHub](./semana-01)
 * 📄 [Semana 02 - Modelos de Processo](./semana-02)
 * 📄 [Semana 03 - Situação Problema:  🚨 Missão Crítica: Operação Resgate ](./semana-03)
+* 📄 [Semana 04 - Desenvolvimento Ágil](./semana-04)
+
 
