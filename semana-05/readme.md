@@ -18,6 +18,7 @@ Aplicativo voltado para administração de academias de musculação, permitindo
 - **Administrador**: "Preciso organizar os horários dos professores e saber quais alunos cada um está atendendo."  
 
 ## Método CARD
+
 - **Capturar**: necessidades levantadas junto ao cliente.  
 - **Aprovar**: histórias validadas como parte do escopo inicial.  
 - **Refinar**: detalhamento futuro das regras de negócio e integrações.  
