@@ -1,6 +1,6 @@
 # Atividade Semana 8
 
-Para essa semana, criamos o documento de requisitos, baseado na [conversa com o Geraldo](./semana-06/clienteConversaInicial.md), um agente personalizado de IA.
+Para essa semana, criamos o documento de requisitos, baseado na [conversa com o Geraldo](../semana-06/clienteConversaInicial.md), um agente personalizado de IA.
 
 O Documento de requisitos também está nessa pasta (Semana 8), ou [Clique Aqui](./Requisitos_Hotel-Bela-Vista.pdf)
 # Transcrição da Conversa – Validação do Documento de Requisitos
