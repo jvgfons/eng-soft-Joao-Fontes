@@ -25,5 +25,5 @@ Clique nos links abaixo para acessar os arquivos de cada semana:
 * 📄 [Semana 04 - Desenvolvimento Ágil](./semana-04)
 * 📄 [Semana 05 - Histórias de Usuário - Método CARD](./semana-05)
 * 📄 [Semana 06 - Engenharia de Requisitos](./semana-06)
-* 📄 [Semana 09 - Documento de Requisitos](./semana-08)
+* 📄 [Semana 08 - Documento de Requisitos](./semana-08)
 
